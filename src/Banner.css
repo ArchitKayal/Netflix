@@ -2,7 +2,8 @@
     position: relative;
     height: 448px;
     color: white;
-    object-fit: contain;
+    object-fit:cover;
+    
 }
 
 .banner_contents{
