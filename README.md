@@ -12,14 +12,14 @@ This project is a Netflix clone developed using JavaScript, React, Redux, Fireba
 
 ## Screenshots
 
-You can find screenshots showcasing different screens of the project in the `screenshots` directory. Below are some examples:
+You can find screenshots showcasing different screens of the project below:
 
-  ![login_page_1](https://github.com/ArchitKayal/Netflix/assets/59079120/60bccd92-3df1-4e31-b1d6-3e483b542b3c)
-- [Login Page 1](./screenshots/login_page_1.png)
-- [Login Page 2](./screenshots/login_page_2.png)
-- [Home Page](./screenshots/HomeScreen.png)
-- [Profile Page](./screenshots/profile.png)
-- [Checkout with Stripe](./screenshots/checkout.png)
+![login_page_1](https://github.com/ArchitKayal/Netflix/assets/59079120/60bccd92-3df1-4e31-b1d6-3e483b542b3c)
+![login_page_2](https://github.com/ArchitKayal/Netflix/assets/59079120/9d03091d-a9bb-44bf-9e51-ef2ded00e629)
+![HomeScreen](https://github.com/ArchitKayal/Netflix/assets/59079120/36d83518-7a3c-4376-8dc6-d154dfcd7a2b)
+![profile](https://github.com/ArchitKayal/Netflix/assets/59079120/1074eed6-675f-45b8-8a90-520f8874072c)
+![checkout](https://github.com/ArchitKayal/Netflix/assets/59079120/b438c642-3457-44de-a188-04f0612f748f)
+
 
 # Getting Started with Create React App and Redux
 
