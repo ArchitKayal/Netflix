@@ -1,3 +1,25 @@
+# Netflix Clone Project
+
+This project is a Netflix clone developed using JavaScript, React, Redux, Firebase, and Stripe. It mimics some functionalities of the popular streaming platform Netflix, including user authentication, subscription plans, and payment processing.
+
+## Features
+
+- **User Authentication:** Firebase Authentication is used to handle user login and registration securely.
+- **Database:** Firebase Realtime Database is used as the database for storing user information.
+- **Profile Page:** Users have a profile page where they can view different subscription plans and their renewal dates for the current plan.
+- **Subscription Plans:** Users can view different subscription plans and select one for renewal.
+- **Payment Processing:** Stripe is integrated for secure payment processing when users choose to renew their subscription.
+
+## Screenshots
+
+You can find screenshots showcasing different screens of the project in the `screenshots` directory. Below are some examples:
+
+- [Login Page 1](./screenshots/login_page_1.png)
+- [Login Page 2](./screenshots/login_page_2.png)
+- [Home Page](./screenshots/HomeScreen.png)
+- [Profile Page](./screenshots/profile.png)
+- [Checkout with Stripe](./screenshots/checkout.png)
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
