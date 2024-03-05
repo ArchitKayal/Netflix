@@ -14,6 +14,7 @@ This project is a Netflix clone developed using JavaScript, React, Redux, Fireba
 
 You can find screenshots showcasing different screens of the project in the `screenshots` directory. Below are some examples:
 
+  ![login_page_1](https://github.com/ArchitKayal/Netflix/assets/59079120/60bccd92-3df1-4e31-b1d6-3e483b542b3c)
 - [Login Page 1](./screenshots/login_page_1.png)
 - [Login Page 2](./screenshots/login_page_2.png)
 - [Home Page](./screenshots/HomeScreen.png)
